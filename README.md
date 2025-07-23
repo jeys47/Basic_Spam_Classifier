@@ -1,0 +1,1 @@
+Un modele de classification binaire, qui classe les messages en spam ou ham.
