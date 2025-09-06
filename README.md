@@ -26,7 +26,7 @@ Colonnes :
 1. **Cloner le dépôt**
 ```bash
 git clone https://github.com/jeys47/Basic_Spam_Classifier.git
-cd nom_du_repo
+cd Basic_Spam_Classifier.git
 
 ## Evaluation
 Accuracy
